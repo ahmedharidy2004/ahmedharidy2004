@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm a passionate computer engineering student seeking to develop my skills in problem solving and web development.
+A passionate computer engineering student seeking to develop my skills in problem solving and web development.
 
 
 ## 🌐 Socials:
