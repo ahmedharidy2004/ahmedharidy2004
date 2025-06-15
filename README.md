@@ -26,6 +26,5 @@ A passionate computer engineering student seeking to develop my skills in proble
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmedharidy2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
